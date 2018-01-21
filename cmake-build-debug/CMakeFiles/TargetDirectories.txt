@@ -1,0 +1,3 @@
+/home/anton/Desktop/Projects/AVR/gsm-module/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/anton/Desktop/Projects/AVR/gsm-module/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/anton/Desktop/Projects/AVR/gsm-module/cmake-build-debug/CMakeFiles/gsm_module.dir
